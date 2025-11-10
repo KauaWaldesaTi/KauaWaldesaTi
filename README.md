@@ -22,7 +22,9 @@ Busco sempre evoluir e colocar em prática o que aprendo todos os dias.
 
 ### 👨‍💻 Linguagens  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet" alt="Linguagens">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,mysql" alt="Linguagens">
+  <br>
+  <sub><strong>C#</strong> • <strong>.NET</strong> • <strong>HTML</strong> • <strong>CSS</strong> • <strong>MySQL Workbench</strong></sub>
 </p>
 
 ### 🧰 Frameworks  
