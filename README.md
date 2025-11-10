@@ -23,7 +23,7 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou apre
 ## 📫 Contato
 
 ![Gmail Badge](https://img.shields.io/badge/-{suporteti@waldesa.com.br}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{suporteti@waldesa.com.br})
-[![Linkedin: Kauã Steter](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kauasteterdesouza/)][(https://www.linkedin.com/in/kauasteterdesouza/)
+[![Linkedin: Kauã Steter](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://[www.linkedin.com/in/kauasteterdesouza/](https://www.linkedin.com/in/kau%C3%A3-steter-de-souza))
 
 
 ✉️ Se quiser trocar ideias, colaborar ou apenas bater um papo sobre tecnologia, estou à disposição — entre em contato!
