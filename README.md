@@ -1,29 +1,56 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" 
+       alt="Ilustração de um computador" width="400px">
+</div>
 
-# 👋 Olá, eu sou Kauã Steter
+<h1 align="center">👋 Olá, eu sou <strong>Kauã Steter</strong></h1>
 
-## 💼 Perfil Profissional
+<p align="center">
+  💻 Estudante de Programação &nbsp;|&nbsp; 🚀 Desenvolvedor em crescimento na <strong>Waldesa</strong>  
+</p>
 
-- 💻 Estudante de Programação
-- 🏢 Aprendendo e Crescendo Profissionalmente na Waldesa
+---
+
+## 🧠 Sobre mim
+Sou apaixonado por tecnologia e programação.  
+Atualmente, estou focado em aprender linguagens e ferramentas que me ajudem a desenvolver aplicações modernas e funcionais.  
+Busco sempre evoluir e colocar em prática o que aprendo todos os dias.  
+
+---
 
 ## 🚀 Habilidades
 
-Aqui estão algumas das linguagens de programação e tecnologias que estou aprendendo:
+### 👨‍💻 Linguagens  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css" alt="Linguagens">
+</p>
 
-## 👨‍💻 Linguagens: 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,html,css)](https://skillicons.dev)
+### 🧰 Frameworks  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet" alt="Frameworks">
+</p>
 
-## 🧰 Frameworks: 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs)](https://skillicons.dev)
+### ⚙️ Ferramentas  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode" alt="Ferramentas">
+</p>
 
-## ⚙️ Ferramentas:
-[![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,vscode)](https://skillicons.dev)<br><br>
+---
 
 ## 📫 Contato
 
-![Gmail Badge](https://img.shields.io/badge/-{suporteti@waldesa.com.br}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{suporteti@waldesa.com.br})
-[![Linkedin: Kauã Steter](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/kau%C3%A3-steter-de-souza-197120347/)
+<p align="center">
+  <a href="mailto:suporteti@waldesa.com.br">
+    <img src="https://img.shields.io/badge/-suporteti@waldesa.com.br-006bed?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/kau%C3%A3-steter-de-souza-197120347/" target="_blank">
+    <img src="https://img.shields.io/badge/-Kauã%20Steter-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
+---
 
-✉️ Se quiser trocar ideias, colaborar ou apenas bater um papo sobre tecnologia, estou à disposição — entre em contato!
+<p align="center">
+  ✨ <em>“A cada linha de código, um novo aprendizado.”</em> ✨  
+</p>
