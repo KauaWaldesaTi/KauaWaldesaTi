@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-# 👋 Olá, eu sou Gustavo Henrique
+# 👋 Olá, eu sou Kauã Steter
 
 ## 💼 Perfil Profissional
 
@@ -22,8 +22,8 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou apre
 
 ## 📫 Contato
 
-![Gmail Badge](https://img.shields.io/badge/-{suporteti4@waldesa.com.br}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{suporteti4@waldesa.com.br})
-[![Linkedin: Gustavo Henrique](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustahenriq/)](https://www.linkedin.com/in/gustahenriq/)
+![Gmail Badge](https://img.shields.io/badge/-{suporteti@waldesa.com.br}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{suporteti@waldesa.com.br})
+[![Linkedin: Kauã Steter](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kauasteterdesouza/)][(https://www.linkedin.com/in/kauasteterdesouza/)
 
 
 ✉️ Se quiser trocar ideias, colaborar ou apenas bater um papo sobre tecnologia, estou à disposição — entre em contato!
